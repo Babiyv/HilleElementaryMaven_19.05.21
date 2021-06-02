@@ -93,6 +93,4 @@ public class Task2 {
             list.add(ls, new Object());
         }
     }
-
-
 }
